@@ -1,8 +1,7 @@
 # Inverting Gradients – 연합학습에서 프라이버시를 깨는 것이 얼마나 쉬운가?
 
-## Update (Feb 2022)
-해당 공격뿐 아니라 여러 최신 프라이버시 공격 구현을 제공하는 새로운 프레임워크가 공개되었습니다.  
-https://github.com/JonasGeiping/breaching
+## 깃허브 원문
+https://github.com/JonasGeiping/invertinggradients
 
 ---
 
