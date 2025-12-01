@@ -26,7 +26,7 @@ https://arxiv.org/abs/2003.14053v1
 
 ---
 
-## Abstract 요약
+## Abstract 
 
 연합학습(Federated Learning)은 사용자 디바이스에서 생성된 **gradient 업데이트만**을 서버로 보내 모델을 학습하는 방식입니다.  
 데이터는 디바이스에 남아 있어 프라이버시가 보호된다고 여겨져 왔습니다.
