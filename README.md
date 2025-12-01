@@ -1,8 +1,5 @@
 # Inverting Gradients – 연합학습에서 프라이버시를 깨는 것이 얼마나 쉬운가?
 
-## 깃허브 원문
-https://github.com/JonasGeiping/invertinggradients
-
 ---
 
 ## 소개
@@ -15,6 +12,7 @@ https://github.com/JonasGeiping/invertinggradients
 https://arxiv.org/abs/2003.14053v1  
 
 논문 원문: https://arxiv.org/abs/2003.14053
+깃허브 원문: https://github.com/JonasGeiping/invertinggradients
 
 ---
 
