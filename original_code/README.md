@@ -1,3 +1,7 @@
+## 깃허브 원문
+https://github.com/JonasGeiping/invertinggradients  
+
+## 코드 재현 성공/불가 요약
 - **`Recovery from Gradient Information.ipynb` - 재현 성공**
     - **[가장 기본적인 실험]** 이것이 논문의 핵심 아이디어를 보여주는 기본 실험 코드일 가능성이 높습니다. 단일 이미지의 **기울기(gradient) 정보**로부터 원본 이미지를 복원하는 과정을 구현한 것으로 보입니다.
 - **`Recovery from Weight Updates.ipynb` - 재현 성공**
