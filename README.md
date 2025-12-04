@@ -9,7 +9,7 @@
 (2020.03.31)  
 https://arxiv.org/abs/2003.14053v1  
 
-논문 원문: https://arxiv.org/abs/2003.14053
+논문 원문: https://arxiv.org/abs/2003.14053  
 깃허브 원문: https://github.com/JonasGeiping/invertinggradients
 
 ---
